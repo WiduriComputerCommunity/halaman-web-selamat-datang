@@ -1,0 +1,18 @@
+body {
+  background-color: #FFFFFF;
+  margin: 0;
+}
+
+.gambar-header{
+  width:100%;
+}
+
+.formulir {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.isi {
+  padding: 5px;
+  margin: 5px;
+}
